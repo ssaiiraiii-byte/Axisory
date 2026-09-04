@@ -1,0 +1,10 @@
+{
+  "archiveSHA256" : "449e2d9c5450e3ce2ad7af0481911754208e5e7f5cd4b6a3ed7dc5b2767d41c4",
+  "archiveSignature" : "j+690bYX3K9WHkg06cNKvAAz4jiKzHFL0lqEv1fQAHWfhSpbDat72LB4r3jZt2L8a7g3OsSQMuQunN/s4TkQCA==",
+  "archiveSize" : 7658579,
+  "build" : 3,
+  "bundleIdentifier" : "com.thikdski.axisory",
+  "downloadURL" : "https://raw.githubusercontent.com/ssaiiraiii-byte/Axisory/main/Axisory%201.1.1.zip",
+  "schemaVersion" : 1,
+  "version" : "1.1.1"
+}
