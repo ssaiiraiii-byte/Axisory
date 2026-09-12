@@ -1,10 +1,10 @@
 {
-  "archiveSHA256" : "89f09aa2137b6fa540716ddf0c0625de16f1d9d02e010ad024efee130cd64d94",
-  "archiveSignature" : "UFCI/79JvWYsC+ym3W3mfy0YaNj8AggFBlBUE2o+8Sfiho8yIcsZgBK5F1ne+8gWcRZfIeltU8/wS7HUXOU/Cg==",
-  "archiveSize" : 11084768,
-  "build" : 17,
+  "archiveSHA256" : "d8c2410288cfea56f2b03ba860d4e3c7b680c8b5cede126f10337c08113fcf9e",
+  "archiveSignature" : "0bpVHKU4G1SogtZtErOR52XTbzEqgU+YqCL0xMOUEvaLVqFICZL0tnkb2icCR7GEZlSrhPTFvGCt7MnU0W+cAg==",
+  "archiveSize" : 11084802,
+  "build" : 18,
   "bundleIdentifier" : "com.thikdski.axisory",
-  "downloadURL" : "https://raw.githubusercontent.com/ssaiiraiii-byte/Axisory/main/Axisory%201.2.2.zip",
+  "downloadURL" : "https://raw.githubusercontent.com/ssaiiraiii-byte/Axisory/main/Axisory%201.2.3.zip",
   "schemaVersion" : 1,
-  "version" : "1.2.2"
+  "version" : "1.2.3"
 }
